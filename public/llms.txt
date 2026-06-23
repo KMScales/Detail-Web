@@ -1,0 +1,11 @@
+# DetailWeb
+
+> A web studio in Paphos, Cyprus building fast websites and handling SEO, social content and Google Business Profile for small businesses. From €500 upfront.
+
+## Pages
+
+- [Home](/): Fast websites that rank locally, plus ongoing digital growth.
+- [Services](/services): Website builds, SEO + GEO, social content, photo shoots and monthly care plans.
+- [Process](/process): How a project goes from first call to launch in 2–5 days, plus FAQs.
+- [About](/about): The story behind DetailWeb, a one-person studio in Paphos, Cyprus.
+- [Contact](/contact): Start a project — replies within 24 hours.
